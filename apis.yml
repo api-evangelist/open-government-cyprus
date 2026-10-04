@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Cyprus
     description: "Cyprus Government Open Data"
     humanURL: https://data.gov.cy/?language=en
-    baseURL: https://data.gov.cy/?language=en
     tags:
       - Government
     properties:
